@@ -1,16 +1,18 @@
-### Hi there 👋
+ Ola meu nome é Mateus 
+ 
+ Sou jogador de basquete
+ 
+ Tenho 16 anos e quero desenvolver linguagens a programação
+ 
+ Nasci em jaú
 
-<!--
-**Mateusdavi0409/Mateusdavi0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Morei em bauru por 11 anos
 
-Here are some ideas to get you started:
+ Namoro a menina mais perfeita do mundo: Luzia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Professor aqui é zika, e é isso.
+
+![](https://media1.tenor.com/m/u6r8fswiki4AAAAC/dancing-minion.gif)
+
+
+ 
